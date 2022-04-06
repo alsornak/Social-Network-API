@@ -14,7 +14,7 @@ app.use(require("./routes"));
 
 // set up server
 mongoose.connect(
-	process.env.MONGODB_URI || "mongodb://localhost/Social-Network-API",
+	process.env.MONGODB_URI || "mongodb://localhost/social-network-api",
 	{
 		useFindAndModify: false,
 		useNewUrlParser: true,
