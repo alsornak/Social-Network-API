@@ -7,10 +7,9 @@
 ## Table of contents
 * [User Story](#user-story)
 * [Acceptance Criteria](#Acceptance-Criteria)
-* [Screenshots](#Screenshots)
 * [Mock-Up](#Mock-Up)
 * [Application Functionality](#Application-Functionality)
-* [Technologies Use](#Technologies-Use)
+* [References](#References)
 * [Contributor](#Contributor)
 
 
