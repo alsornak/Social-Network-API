@@ -36,8 +36,10 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ```
 
 ## Mock Up
-The following video shows an example of the application being used from the command line: 
-### <a href="">Video Link</a>
+Walkthrough video demonstrate POST, PUT, and GET routes which is being tested in Insomnia.
+### <a href="https://drive.google.com/file/d/16bi9dmMYYmVPz7JMhrUsDlkkHQqzHE8h/view?usp=sharing">Video Link</a> 
+Walkthrough video demonstrate DELETE routes which is being tested in Insomnia.
+### <a href="https://drive.google.com/file/d/1LlXHoSiOf98gwmNB6qvMF9BEdEuwep1x/view?usp=sharing">Video Link</a> 
 
 The application is build using the following tools & packages:
 
